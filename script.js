@@ -98,7 +98,7 @@
 
     formData.append("timestamp", new Date().toLocaleString());
 
-    fetch("https://hooks.zapier.com/hooks/catch/27438727/4y8o1fe/", {
+    fetch("https://hook.eu1.make.com/ecmhfunq98p2bo25o8oi2aeh2d9ouc28", {
 
         method: "POST",
 
