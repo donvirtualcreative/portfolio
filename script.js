@@ -98,7 +98,7 @@
 
     formData.append("timestamp", new Date().toLocaleString());
 
-    fetch("https://hook.eu1.make.com/ecmhfunq98p2bo25o8oi2aeh2d9ouc28", {
+    fetch("https://hook.eu1.make.com/v9dmk8n02bfwnssmojvefu3rph3d9gw4", {
 
         method: "POST",
 
